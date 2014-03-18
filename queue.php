@@ -26,13 +26,13 @@ function fetchMessage($mesg_id){
     {
  
         print_r("Mesg Queue is not Ready");
- 
+	echo '<br>'; 
     }
  
     if(msg_receive($mesg_id, 0, $mesg_type, 1024, $mesg, false, MSG_IPC_NOWAIT)){
  
         print_r("Process got a new incoming MSG: $mesg ");
- 
+	echo '<br>'; 
     }
  }
  
