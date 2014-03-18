@@ -1,6 +1,8 @@
-Laravel4SimpleCRUD
+Queue_php
 ==================
-Laravel4.0
-简单的crud、翻页、路由的使用
+PHP事件驱动设计
+PHP的消息通信
+原文地址
+http://www.laruence.com/2008/04/21/101.html
 ==================
-Laravel 4 SimpleCRUD
+Queue_php
